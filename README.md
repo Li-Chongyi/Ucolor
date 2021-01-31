@@ -1,5 +1,7 @@
 # Ucolor
-
+```
+The source code will be publicly available soon.
+```
 
 # TensorFlow
 TensorFlow implementation of Ucolor
@@ -13,7 +15,7 @@ TensorFlow 1.x
 ### Folder structure
 The following shows the basic folder structure.
 
-### results
+### Results
 
 For your evaluations, we provide all results of our method.
 ```
