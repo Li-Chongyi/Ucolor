@@ -17,9 +17,9 @@ The following shows the basic folder structure.
 
 ### Results
 
-For your evaluations, we provide all results of our method.
+For your evaluations, we provide all results of our method and the compared methods.
 ```
-Google Drive: 
+Google Drive: https://drive.google.com/file/d/1sfBaQqGUxw1mQwqRMTk90_fYVL_GF8KN/view?usp=sharing
 Baidu Cloud:  
 ```
 ### Train
