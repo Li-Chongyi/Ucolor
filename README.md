@@ -3,14 +3,7 @@
 The source code will be publicly available soon.
 ```
 
-# TensorFlow
-TensorFlow implementation of Ucolor
 
-## Requirements
-```
-Python 3
-TensorFlow 1.x
-```
 
 ### Folder structure
 The following shows the basic folder structure.
