@@ -1,8 +1,13 @@
 # Ucolor
 ```
-This is the training and testing codes of our Ucolor. (TensorFlow Version).
+This Repo includes the training and testing codes of our Ucolor. (TensorFlow Version).
+The codes can be found at 
+Google Drive: https://drive.google.com/file/d/1aqI0mRpv5wIh-oq8dP-ZFBhD7zJ7NilZ/view?usp=sharing
+or
+Baidu Cloud: 
 ```
-
+# Requirement
+Python 3.5.6, TensorFlow 1.6.0, Cuda 9.0.
 
 
 ### Folder structure
@@ -15,13 +20,6 @@ For your evaluations, we provide all results of our method and the compared meth
 Google Drive: https://drive.google.com/file/d/1zrynw05ZgkVMAybGo9Nhqg2mmIYIMVOT/view?usp=sharing
 Baidu Cloud:  
 ```
-# TensorFlow-Water-Net
-This is the code of the implementation of the underwater image enhancement network (Water-Net) described in "Chongyi Li, Chunle Guo, Wenqi Ren, Runmin Cong, Junhui Hou, Sam Kwong, Dacheng Tao , <An Underwater Image Enhancement Benchmark Dataset and Beyond> IEEE TIP 2019". If you use our code or dataset for academic purposes, please consider citing our paper. Thanks.
-
-# Requirement
-TensorFlow 1.x, Cuda 8.0, and Matlab.
-The missed vgg.py has been added. 
-The requirement.txt has been added.
 
 ## **Usage**
 
