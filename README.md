@@ -50,14 +50,14 @@ The validation data are in the "input_test" folder (underwater images), "depth_t
 ## Bibtex
 
 ```
-@inproceedings{Ucolor,
- author = {},
- title = {},
- booktitle = {},
- pages    = {},
- month = {},
- year = {}
-}
+@Article{Ucolor,
+          author ={Li, Chongyi and Anwar, Saeed and Hou, Junhui and Cong, Runmin and Guo, Chunle and Ren, Wenqi},
+          title = {Underwater Image Enhancement via Medium Transmission-Guided Multi-Color Space Embedding},
+          journal = {IEEE Transactions on Image Processing},
+          pape={},
+          year = {2021},
+          doi={}
+          }
 ```
 
 ## Contact
