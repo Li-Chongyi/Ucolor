@@ -20,6 +20,7 @@ Python 3.5.6, TensorFlow 1.6.0, Cuda 9.0.
 ### Results
 ```
 For your evaluations, we provide all results of our method and the compared methods.
+The results can be found at
 ```
 Google Drive: https://drive.google.com/file/d/1zrynw05ZgkVMAybGo9Nhqg2mmIYIMVOT/view?usp=sharing
 
