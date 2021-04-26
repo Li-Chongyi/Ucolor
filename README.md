@@ -8,7 +8,7 @@ Google Drive: https://drive.google.com/file/d/1aqI0mRpv5wIh-oq8dP-ZFBhD7zJ7NilZ/
 
 or
 
-Baidu Cloud: 
+Baidu Cloud: https://pan.baidu.com/s/1CAhJLeNj-iCJ8IKZ4d_4Jg  Password: oiss
 
 
 
