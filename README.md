@@ -13,16 +13,16 @@ Baidu Cloud:
 Python 3.5.6, TensorFlow 1.6.0, Cuda 9.0.
 
 
-### Folder structure
-The following shows the basic folder structure.
-
 ### Results
-
+```
 For your evaluations, we provide all results of our method and the compared methods.
 ```
 Google Drive: https://drive.google.com/file/d/1zrynw05ZgkVMAybGo9Nhqg2mmIYIMVOT/view?usp=sharing
+
+or 
+
 Baidu Cloud:  
-```
+
 
 ## **Usage**
 
