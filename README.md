@@ -25,7 +25,7 @@ Google Drive: https://drive.google.com/file/d/1zrynw05ZgkVMAybGo9Nhqg2mmIYIMVOT/
 
 or 
 
-Baidu Cloud:  
+Baidu Cloud:  https://pan.baidu.com/s/13DyFwlz3aTJ3LGkVOVuOvQ (Password: hyap)
 
 
 ## Testing
