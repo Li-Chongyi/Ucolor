@@ -9,6 +9,8 @@ or
 
 Baidu Cloud: 
 
+If you use our codes, please cite our paper and hit the star at the top-right corner. Thanks!
+
 # Requirement
 ```
 Python 3.5.6, TensorFlow 1.6.0, Cuda 9.0.
