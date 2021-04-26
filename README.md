@@ -60,6 +60,8 @@ The validation data are in the "input_test" folder (underwater images), "depth_t
           doi={}
           }
 ```
+##  License
+The code is made available for academic research purpose only. This project is open sourced under MIT license.
 
 ## Contact
 If you have any questions, please contact Chongyi Li at lichongyi25@gmail.com.
