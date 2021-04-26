@@ -40,7 +40,7 @@ For your convenience, we provide all paired testing data (input images and corre
 ## Training
 ```
 1. Download the code
-2. Python main_.py
+2. Python main_train.py
 3. Find checkpoint in the ./checkpoint/coarse_112
 
 The training data are in the "input_train" folder (underwater images), "depth_train" folder (transmission maps), and "gt_train" folder (ground truth images).
