@@ -4,7 +4,9 @@ This Repo includes the training and testing codes of our Ucolor. (TensorFlow Ver
 The codes can be found at 
 ```
 Google Drive: https://drive.google.com/file/d/1aqI0mRpv5wIh-oq8dP-ZFBhD7zJ7NilZ/view?usp=sharing
+
 or
+
 Baidu Cloud: 
 
 # Requirement
