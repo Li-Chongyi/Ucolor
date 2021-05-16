@@ -55,9 +55,10 @@ The validation data are in the "input_test" folder (underwater images), "depth_t
           author ={Li, Chongyi and Anwar, Saeed and Hou, Junhui and Cong, Runmin and Guo, Chunle and Ren, Wenqi},
           title = {Underwater Image Enhancement via Medium Transmission-Guided Multi-Color Space Embedding},
           journal = {IEEE Transactions on Image Processing},
-          pape={},
+          Volume={30},
+          pape={4985-5000},
           year = {2021},
-          doi={}
+          doi={10.1109/TIP.2021.3076367}
           }
 ```
 ##  License
