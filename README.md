@@ -17,6 +17,7 @@ Baidu Cloud: https://pan.baidu.com/s/1CAhJLeNj-iCJ8IKZ4d_4Jg  (Password: oiss)
 Python 3.5.6, TensorFlow 1.6.0, Cuda 9.0.
 ```
 
+<!---
 ### Results
 ```
 For your evaluations, we provide all results of our method and the compared methods.
@@ -27,7 +28,7 @@ Google Drive: https://drive.google.com/file/d/1zrynw05ZgkVMAybGo9Nhqg2mmIYIMVOT/
 or 
 
 Baidu Cloud:  https://pan.baidu.com/s/13DyFwlz3aTJ3LGkVOVuOvQ (Password: hyap)
-
+-->
 
 ## Testing
 ```
