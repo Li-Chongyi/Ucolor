@@ -1,11 +1,11 @@
 # Ucolor
 ```
 This Repo includes the training and testing codes of our Ucolor. (TensorFlow Version).
-If you use our codes, please cite our paper and hit the star at the top-right corner. Thanks!
+If you use our code, please cite our paper and hit the star at the top-right corner. Thanks!
 ```
 # Notice
 ```
-In the original released code, we may upload the incorrect transmission maps in some folders. In the updated version, we have corrected the provided transmission maps and provdied the code that can generate the transmission map. 
+In the originally released code, we may upload the incorrect transmission maps in some folders. In the updated version, we have corrected the provided transmission maps and provided the code that can generate the transmission map.  
 ```
 
 The codes can be found at 
