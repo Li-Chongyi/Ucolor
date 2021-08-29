@@ -13,7 +13,7 @@ Google Drive: https://drive.google.com/file/d/1c2bjXMKyszogNxgPxQF9mQ9EkRKAbnB6/
 
 or
 
-Baidu Cloud:   (Password: )
+Baidu Cloud: https://pan.baidu.com/s/14t0H9OFpWCZr1ltVNb62PQ  (Password: nseu)
 
 
 
