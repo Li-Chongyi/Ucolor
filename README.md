@@ -1,6 +1,8 @@
 # Ucolor
 ```
 This Repo includes the training and testing codes of our Ucolor. (TensorFlow Version).
+
+We also provided a MindSpore version of our code: https://pan.baidu.com/s/152jgursbXgxTEDLNGZ2SIw (password: a5ls).
 If you use our code, please cite our paper and hit the star at the top-right corner. Thanks!
 ```
 # Notice
